@@ -1,3 +1,3 @@
 # Videos Rating DRF
 
-Vedio Rating using Django Rest Framework
+Simple Video Rating application using Django Rest Framework for learning purpose only.
